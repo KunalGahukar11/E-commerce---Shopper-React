@@ -14,7 +14,7 @@ const NewCollections = () => {
                     key = {i}
                     id = {item.id}
                     image = {item.image}
-                    imgStyle={{ width: "250px", height: "300px", objectFit: "cover" }}
+                    // imgStyle={{ width: "250px", height: "300px", objectFit: "cover" }}
                     name = {item.name}
                     new_price = {item.new_price}
                     old_price = {item.old_price}>
